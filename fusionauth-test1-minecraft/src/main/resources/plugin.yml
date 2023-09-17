@@ -1,0 +1,3 @@
+name: ripauth
+version: '${version}'
+main: icu.ripley.fusionauthtest1minecraft.FA_plugin
